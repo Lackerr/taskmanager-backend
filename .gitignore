@@ -1,0 +1,69 @@
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NPM packages
+node_modules/
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+*.DS_Store
+._*
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.iml
+
+# Database files
+*.mdf
+*.ldf
+*.ndf
+
+# Logs
+*.log
+
+# Lock files
+project.lock.json
+*.pid
+
+# Deployment
+.publish/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.sln.ide
+
+# IDE config files
+*.ide.*
+.idea/
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+*.iws
